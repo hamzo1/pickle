@@ -1,0 +1,11 @@
+/* STREAMING_CHUNK:Defining theme variables... */
+:root {
+--slate-950: #020617;
+--lime-500: #84cc16;
+}
+
+.app-wrapper {
+min-height: 100vh;
+background-color: var(--slate-950);
+color: #fff;
+}
